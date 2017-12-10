@@ -80,8 +80,6 @@ public class DateTest {
 		//2年前
 		calendar.add(Calendar.YEAR, -2);
 		System.out.println("两年前："+calendar.get(Calendar.YEAR));
-		//MM dd也是如此
-		
 		
 		
 	}
